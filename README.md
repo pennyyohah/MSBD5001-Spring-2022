@@ -1,2 +1,5 @@
 # MSBD5001-Spring-2022
-The repo of MSBD5001 individual Kaggle Competition.
+
+This is the repo of MSBD 5001 individual Kaggle Competition.
+
+The task is predicting pneumonia in kidney transplant recipients.
